@@ -1,0 +1,2 @@
+[example]
+rpi ansible_port=1717 ansible_host=192.168.1.78

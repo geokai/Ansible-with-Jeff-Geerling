@@ -1,0 +1,8 @@
+gitignore file
+
+_*
+.env
+venv
+app.db
+.vagrant
+
