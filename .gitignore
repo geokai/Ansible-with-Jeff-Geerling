@@ -1,8 +1,13 @@
 gitignore file
 
+.DS_Store
 _*
 .env
-venv
-app.db
-.vagrant
+
+.vagrant/
+vagrant_ansible_inventory_default
+__pycache__
+*.cache
+*.retry
+test.sh
 
